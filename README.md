@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wrapped-in-your-absence/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Wrapped In Your Absence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wrapped-in-your-absence/) |
+| **Get License** | [Secure Licensing Rights for Wrapped In Your Absence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wrapped-in-your-absence/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The night is quiet and the moon is low
+> I feel the fire in the undertow
+> My hands are empty but my blood is warm
+> I need your body in this coming storm
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
