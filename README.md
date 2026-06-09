@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wrapped-in-your-absence/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Wrapped In Your Absence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wrapped-in-your-absence/) |
+| **Get License** | [Get a Licensing Quote for Wrapped In Your Absence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wrapped-in-your-absence/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8fa86c0d46add6cc05ae10e654784915661a703f8b825c6b7d304e55eec20d3e` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

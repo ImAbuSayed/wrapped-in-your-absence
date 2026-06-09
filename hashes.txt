@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Wrapped In Your Absence
+
+This log tracks the cryptographic history and versioning for the song **Wrapped In Your Absence** (wrapped-in-your-absence).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T15:34:32.619528 | `v1` | `8fa86c0d46add6cc05ae10e654784915661a703f8b825c6b7d304e55eec20d3e` | `c63d14bbff58bc05b9d466864b21f1c6db08d1507629a084d6ee0a13420b2a6f` | `2026-06-09_wrapped-in-your-absence-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
